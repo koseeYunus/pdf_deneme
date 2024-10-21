@@ -58,9 +58,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   fonts:
-    - family: OpenSans
+    - family: Roboto
       fonts:
-        - asset: assets/fonts/OpenSans-Regular.ttf
         - asset: assets/fonts/Roboto-Regular.ttf
 
   # The following line ensures that the Material Icons font is
